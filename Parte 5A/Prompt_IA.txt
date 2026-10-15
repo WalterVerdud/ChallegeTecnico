@@ -1,0 +1,39 @@
+Actúa como un QA Automation Lead Senior.
+
+Analiza los siguientes resultados obtenidos de una ejecución automatizada realizada con Playwright.
+
+Genera:
+
+1. Resumen ejecutivo.
+2. Tests fallidos.
+3. Posible causa raíz.
+4. Patrones detectados.
+5. Riesgo para el negocio.
+6. Sugerencias de acción.
+7. Recomendaciones de automatización.
+
+Información:
+
+Test:
+Complete purchase flow
+
+Resultado:
+FAILED
+
+Error:
+Expected text:
+"Purchase Completed Successfully"
+
+Received text:
+"Thank you for your purchase!"
+
+Duración:
+5.2 segundos
+
+Framework:
+Playwright + TypeScript
+
+Evidencias:
+Screenshot disponible
+Video disponible
+Trace disponible

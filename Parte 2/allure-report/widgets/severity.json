@@ -1,0 +1,1 @@
+[{"uid":"1123a4536e448aee","name":"Complete purchase flow","time":{"start":1792076668369,"stop":1792076679520,"duration":11151},"status":"failed","severity":"normal"},{"uid":"a7bf0a8a7657e389","name":"Extract products from first 2 pages","time":{"start":1792031827720,"stop":1792031831938,"duration":4218},"status":"passed","severity":"normal"}]

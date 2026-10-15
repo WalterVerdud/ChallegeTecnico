@@ -1,0 +1,43 @@
+RESUMEN EJECUTIVO
+
+Se ejecutó una prueba automatizada correspondiente al flujo completo de compra.
+
+Resultados:
+- Total de pruebas: 1
+- Exitosas: 0
+- Fallidas: 1
+
+TEST FALLIDO
+
+Nombre:
+Complete purchase flow
+
+Descripción:
+La aplicación completó correctamente la compra pero el texto esperado definido en la automatización no coincide con el texto real entregado por la aplicación.
+
+CAUSA RAÍZ PROBABLE
+
+Se detecta una discrepancia entre el criterio de validación utilizado por el test y el comportamiento real de la aplicación.
+
+La funcionalidad parece operar correctamente.
+
+PATRONES DETECTADOS
+
+- No se observan errores funcionales.
+- No existen problemas de navegación.
+- El flujo de negocio finaliza correctamente.
+- La falla se limita a la validación del mensaje.
+
+RIESGO
+
+Bajo.
+
+SUGERENCIAS DE ACCIÓN
+
+- Verificar la especificación funcional.
+- Corregir la aserción utilizada en el test.
+- Centralizar mensajes esperados en constantes reutilizables.
+
+RECOMENDACIONES
+
+Implementar validaciones parametrizadas para reducir mantenimiento y evitar fallos por cambios menores de texto.

@@ -1,0 +1,10 @@
+Samsung galaxy s6 | $360 | prod.html?idp_=1
+Nokia lumia 1520 | $820 | prod.html?idp_=2
+Nexus 6 | $650 | prod.html?idp_=3
+Samsung galaxy s7 | $800 | prod.html?idp_=4
+Iphone 6 32gb | $790 | prod.html?idp_=5
+Sony xperia z5 | $320 | prod.html?idp_=6
+HTC One M9 | $700 | prod.html?idp_=7
+Sony vaio i5 | $790 | prod.html?idp_=8
+Sony vaio i7
+ | $790 | prod.html?idp_=9
